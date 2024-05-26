@@ -1,0 +1,150 @@
+fileFormatVersion: 2
+guid: 6b961c0dc48178c4cb3d445e9020e540
+timeCreated: 1549904258
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armchairs_Base
+    100002: Door1
+    100004: Door2
+    100006: Door3
+    100008: Door4
+    100010: //RootNode
+    100012: Large_Building
+    100014: Large_Building_Base
+    100016: Large_Building_Base 1
+    100018: Large_Building_Front_Wall
+    100020: Large_Building_Roof
+    100022: Large_Building_Side_Wall
+    100024: Projection_Room
+    100026: Recording_Booth
+    100028: Recording_Booth_Wall
+    100030: Recording_Studio
+    100032: Recording_Studio_Wall
+    100034: Sound_Studio_Interior
+    100036: Theater_Interior
+    100038: Theater_Stairs
+    400000: Armchairs_Base
+    400002: Door1
+    400004: Door2
+    400006: Door3
+    400008: Door4
+    400010: //RootNode
+    400012: Large_Building
+    400014: Large_Building_Base
+    400016: Large_Building_Base 1
+    400018: Large_Building_Front_Wall
+    400020: Large_Building_Roof
+    400022: Large_Building_Side_Wall
+    400024: Projection_Room
+    400026: Recording_Booth
+    400028: Recording_Booth_Wall
+    400030: Recording_Studio
+    400032: Recording_Studio_Wall
+    400034: Sound_Studio_Interior
+    400036: Theater_Interior
+    400038: Theater_Stairs
+    2300000: Armchairs_Base
+    2300002: Door1
+    2300004: Door2
+    2300006: Door3
+    2300008: Door4
+    2300010: Large_Building_Base 1
+    2300012: Large_Building_Front_Wall
+    2300014: Large_Building_Roof
+    2300016: Large_Building_Side_Wall
+    2300018: Projection_Room
+    2300020: Recording_Booth_Wall
+    2300022: Recording_Studio_Wall
+    2300024: Theater_Stairs
+    3300000: Armchairs_Base
+    3300002: Door1
+    3300004: Door2
+    3300006: Door3
+    3300008: Door4
+    3300010: Large_Building_Base 1
+    3300012: Large_Building_Front_Wall
+    3300014: Large_Building_Roof
+    3300016: Large_Building_Side_Wall
+    3300018: Projection_Room
+    3300020: Recording_Booth_Wall
+    3300022: Recording_Studio_Wall
+    3300024: Theater_Stairs
+    4300000: Door1
+    4300002: Door2
+    4300004: Large_Building_Base
+    4300006: Large_Building_Front_Wall
+    4300008: Large_Building_Side_Wall
+    4300010: Large_Building_Roof
+    4300012: Armchairs_Base
+    4300014: Theater_Stairs
+    4300016: Projection_Room
+    4300018: Recording_Booth_Wall
+    4300020: Door4
+    4300022: Recording_Studio_Wall
+    4300024: Door3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

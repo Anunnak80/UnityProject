@@ -1,0 +1,124 @@
+fileFormatVersion: 2
+guid: 82509d78dcbb7904d94ef4bca5394e0b
+timeCreated: 1549904258
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ladder_External
+    100002: Ladder_External2
+    100004: Stage_Base
+    100006: Stage_Building
+    100008: //RootNode
+    100010: Stage_Front_Wall
+    100012: Stage_Gate1
+    100014: Stage_Gate2
+    100016: Stage_Mezzanine
+    100018: Stage_Roof
+    100020: Stage_Side_Wall
+    100022: Wall
+    100024: Wall 1
+    400000: Ladder_External
+    400002: Ladder_External2
+    400004: Stage_Base
+    400006: //RootNode
+    400008: Stage_Building
+    400010: Stage_Front_Wall
+    400012: Stage_Gate1
+    400014: Stage_Gate2
+    400016: Stage_Mezzanine
+    400018: Stage_Roof
+    400020: Stage_Side_Wall
+    400022: Wall
+    400024: Wall 1
+    2300000: Ladder_External
+    2300002: Ladder_External2
+    2300004: Stage_Base
+    2300006: Stage_Gate1
+    2300008: Stage_Gate2
+    2300010: Stage_Mezzanine
+    2300012: Stage_Roof
+    2300014: Wall
+    2300016: Wall 1
+    3300000: Ladder_External
+    3300002: Ladder_External2
+    3300004: Stage_Base
+    3300006: Stage_Gate1
+    3300008: Stage_Gate2
+    3300010: Stage_Mezzanine
+    3300012: Stage_Roof
+    3300014: Wall
+    3300016: Wall 1
+    4300000: Stage_Roof
+    4300002: Stage_Mezzanine
+    4300004: Stage_Base
+    4300006: Stage_Gate2
+    4300008: Stage_Gate1
+    4300010: Wall
+    4300012: Wall
+    4300014: Ladder_External
+    4300016: Ladder_External2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

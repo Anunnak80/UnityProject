@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 7380791d6080fc74d8710e8112a04987
+timeCreated: 1549904258
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Door2
+    100002: Door5
+    100004: Front_Wall
+    100006: Glass1
+    100008: Glass1 1
+    100010: Glass2
+    100012: Glass2 1
+    100014: Glass3
+    100016: Glass4
+    100018: Glass5
+    100020: Glass6
+    100022: Office_Base
+    100024: Office_Base 1
+    100026: //RootNode
+    100028: Office_Building_V2
+    100030: Office_Roof
+    100032: Side_Wall
+    100034: Wall
+    100036: Wall_Interior
+    400000: Door2
+    400002: Door5
+    400004: Front_Wall
+    400006: Glass1
+    400008: Glass1 1
+    400010: Glass2
+    400012: Glass2 1
+    400014: Glass3
+    400016: Glass4
+    400018: Glass5
+    400020: Glass6
+    400022: Office_Base
+    400024: Office_Base 1
+    400026: Office_Building_V2
+    400028: //RootNode
+    400030: Office_Roof
+    400032: Side_Wall
+    400034: Wall
+    400036: Wall_Interior
+    2300000: Door2
+    2300002: Door5
+    2300004: Glass1
+    2300006: Glass1 1
+    2300008: Glass2
+    2300010: Glass2 1
+    2300012: Glass3
+    2300014: Glass4
+    2300016: Glass5
+    2300018: Glass6
+    2300020: Office_Base 1
+    2300022: Office_Roof
+    2300024: Side_Wall
+    2300026: Wall
+    2300028: Wall_Interior
+    3300000: Door2
+    3300002: Door5
+    3300004: Glass1
+    3300006: Glass1 1
+    3300008: Glass2
+    3300010: Glass2 1
+    3300012: Glass3
+    3300014: Glass4
+    3300016: Glass5
+    3300018: Glass6
+    3300020: Office_Base 1
+    3300022: Office_Roof
+    3300024: Side_Wall
+    3300026: Wall
+    3300028: Wall_Interior
+    4300000: Side_Wall
+    4300002: Glass1
+    4300004: Glass2
+    4300006: Glass3
+    4300008: Glass4
+    4300010: Glass5
+    4300012: Glass6
+    4300014: Wall
+    4300016: Office_Roof
+    4300018: Wall_Interior
+    4300020: Office_Base
+    4300022: Glass2
+    4300024: Door5
+    4300026: Door2
+    4300028: Glass1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

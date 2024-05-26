@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 2ed51abb4c7d969469562ad847ccc739
+timeCreated: 1549904256
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Door1
+    100002: Door2
+    100004: Glass1
+    100006: Glass1 1
+    100008: Glass2
+    100010: Glass2 1
+    100012: Glass3
+    100014: Glass4
+    100016: Glass5
+    100018: Glass5 1
+    100020: Glass6
+    100022: Glass6 1
+    100024: Glass_Panel
+    100026: Leve1
+    100028: Level1_Base
+    100030: Level1_Front_Wall
+    100032: Level1_Side_Wall
+    100034: Level2
+    100036: Level2_Base
+    100038: Level2_Front_Wall
+    100040: Level2_Side_Wall
+    100042: //RootNode
+    100044: Office_Building
+    100046: Office_Roof
+    100048: Office_Stairs
+    100050: Wall
+    100052: Wall 1
+    400000: Door1
+    400002: Door2
+    400004: Glass1
+    400006: Glass1 1
+    400008: Glass2
+    400010: Glass2 1
+    400012: Glass3
+    400014: Glass4
+    400016: Glass5
+    400018: Glass5 1
+    400020: Glass6
+    400022: Glass6 1
+    400024: Glass_Panel
+    400026: Leve1
+    400028: Level1_Base
+    400030: Level1_Front_Wall
+    400032: Level1_Side_Wall
+    400034: Level2
+    400036: Level2_Base
+    400038: Level2_Front_Wall
+    400040: Level2_Side_Wall
+    400042: Office_Building
+    400044: //RootNode
+    400046: Office_Roof
+    400048: Office_Stairs
+    400050: Wall
+    400052: Wall 1
+    2300000: Door1
+    2300002: Door2
+    2300004: Glass1
+    2300006: Glass1 1
+    2300008: Glass2
+    2300010: Glass2 1
+    2300012: Glass3
+    2300014: Glass4
+    2300016: Glass5
+    2300018: Glass5 1
+    2300020: Glass6
+    2300022: Glass6 1
+    2300024: Glass_Panel
+    2300026: Level1_Base
+    2300028: Level1_Side_Wall
+    2300030: Level2_Base
+    2300032: Level2_Side_Wall
+    2300034: Office_Roof
+    2300036: Office_Stairs
+    2300038: Wall
+    2300040: Wall 1
+    3300000: Door1
+    3300002: Door2
+    3300004: Glass1
+    3300006: Glass1 1
+    3300008: Glass2
+    3300010: Glass2 1
+    3300012: Glass3
+    3300014: Glass4
+    3300016: Glass5
+    3300018: Glass5 1
+    3300020: Glass6
+    3300022: Glass6 1
+    3300024: Glass_Panel
+    3300026: Level1_Base
+    3300028: Level1_Side_Wall
+    3300030: Level2_Base
+    3300032: Level2_Side_Wall
+    3300034: Office_Roof
+    3300036: Office_Stairs
+    3300038: Wall
+    3300040: Wall 1
+    4300000: Office_Stairs
+    4300002: Glass1
+    4300004: Glass2
+    4300006: Door2
+    4300008: Door1
+    4300010: Glass5
+    4300012: Glass6
+    4300014: Wall
+    4300016: Level1_Side_Wall
+    4300018: Level1_Base
+    4300020: Glass1
+    4300022: Glass2
+    4300024: Glass3
+    4300026: Glass4
+    4300028: Glass5
+    4300030: Glass6
+    4300032: Wall
+    4300034: Office_Roof
+    4300036: Level2_Side_Wall
+    4300038: Level2_Base
+    4300040: Glass_Panel
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: cce4f69af036e2d438a8b530b3484216
+timeCreated: 1438853651
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bass_drum
+    100002: Bass_drum_chain
+    100004: Bass_drum_hammer
+    100006: Bass_drum_pedal
+    100008: Bass_drum_pedalBase
+    100010: Crash
+    100012: Crash_cymbal
+    100014: Drum_stick01
+    100016: Drum_stick02
+    100018: Drums_chair
+    100020: //RootNode
+    100022: Floor_tom
+    100024: HiHat
+    100026: HiHat_cymbal
+    100028: HiHat_Lock
+    100030: HiHat_pedal
+    100032: HiHat_Pedal_chain
+    100034: Ride
+    100036: Ride_cymbal
+    100038: Snare
+    100040: Tom-toms_holders
+    100042: Tom_left
+    100044: Tom_left_holder
+    100046: Tom_right
+    100048: Tom_right_holder
+    400000: Bass_drum
+    400002: Bass_drum_chain
+    400004: Bass_drum_hammer
+    400006: Bass_drum_pedal
+    400008: Bass_drum_pedalBase
+    400010: Crash
+    400012: Crash_cymbal
+    400014: Drum_stick01
+    400016: Drum_stick02
+    400018: Drums_chair
+    400020: //RootNode
+    400022: Floor_tom
+    400024: HiHat
+    400026: HiHat_cymbal
+    400028: HiHat_Lock
+    400030: HiHat_pedal
+    400032: HiHat_Pedal_chain
+    400034: Ride
+    400036: Ride_cymbal
+    400038: Snare
+    400040: Tom-toms_holders
+    400042: Tom_left
+    400044: Tom_left_holder
+    400046: Tom_right
+    400048: Tom_right_holder
+    2300000: Bass_drum
+    2300002: Bass_drum_chain
+    2300004: Bass_drum_hammer
+    2300006: Bass_drum_pedal
+    2300008: Bass_drum_pedalBase
+    2300010: Crash
+    2300012: Crash_cymbal
+    2300014: Drum_stick01
+    2300016: Drum_stick02
+    2300018: Drums_chair
+    2300020: Floor_tom
+    2300022: HiHat
+    2300024: HiHat_cymbal
+    2300026: HiHat_Lock
+    2300028: HiHat_pedal
+    2300030: HiHat_Pedal_chain
+    2300032: Ride
+    2300034: Ride_cymbal
+    2300036: Snare
+    2300038: Tom-toms_holders
+    2300040: Tom_left
+    2300042: Tom_left_holder
+    2300044: Tom_right
+    2300046: Tom_right_holder
+    3300000: Bass_drum
+    3300002: Bass_drum_chain
+    3300004: Bass_drum_hammer
+    3300006: Bass_drum_pedal
+    3300008: Bass_drum_pedalBase
+    3300010: Crash
+    3300012: Crash_cymbal
+    3300014: Drum_stick01
+    3300016: Drum_stick02
+    3300018: Drums_chair
+    3300020: Floor_tom
+    3300022: HiHat
+    3300024: HiHat_cymbal
+    3300026: HiHat_Lock
+    3300028: HiHat_pedal
+    3300030: HiHat_Pedal_chain
+    3300032: Ride
+    3300034: Ride_cymbal
+    3300036: Snare
+    3300038: Tom-toms_holders
+    3300040: Tom_left
+    3300042: Tom_left_holder
+    3300044: Tom_right
+    3300046: Tom_right_holder
+    4300000: Snare
+    4300002: Drum_stick02
+    4300004: Bass_drum
+    4300006: Drums_chair
+    4300008: Drum_stick01
+    4300010: Tom-toms_holders
+    4300012: Tom_left_holder
+    4300014: Tom_left
+    4300016: Tom_right_holder
+    4300018: Tom_right
+    4300020: Ride
+    4300022: Ride_cymbal
+    4300024: HiHat
+    4300026: HiHat_pedal
+    4300028: HiHat_Pedal_chain
+    4300030: HiHat_Lock
+    4300032: HiHat_cymbal
+    4300034: Crash
+    4300036: Crash_cymbal
+    4300038: Bass_drum_pedalBase
+    4300040: Bass_drum_pedal
+    4300042: Bass_drum_chain
+    4300044: Bass_drum_hammer
+    4300046: Floor_tom
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

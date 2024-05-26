@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 103e491a7d5b84f489595dd0109f7275
+timeCreated: 1549937587
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: City_Prop1
+    100002: City_Prop10
+    100004: City_Prop11
+    100006: City_Prop12
+    100008: City_Prop13
+    100010: City_Prop2
+    100012: City_Prop3
+    100014: City_Prop4
+    100016: City_Prop5
+    100018: City_Prop6
+    100020: City_Prop7
+    100022: City_Prop8
+    100024: City_Prop9
+    100026: City_Prop_Base
+    100028: City_Prop_Cloud
+    100030: //RootNode
+    400000: City_Prop1
+    400002: City_Prop10
+    400004: City_Prop11
+    400006: City_Prop12
+    400008: City_Prop13
+    400010: City_Prop2
+    400012: City_Prop3
+    400014: City_Prop4
+    400016: City_Prop5
+    400018: City_Prop6
+    400020: City_Prop7
+    400022: City_Prop8
+    400024: City_Prop9
+    400026: City_Prop_Base
+    400028: City_Prop_Cloud
+    400030: //RootNode
+    2300000: City_Prop1
+    2300002: City_Prop10
+    2300004: City_Prop11
+    2300006: City_Prop12
+    2300008: City_Prop13
+    2300010: City_Prop2
+    2300012: City_Prop3
+    2300014: City_Prop4
+    2300016: City_Prop5
+    2300018: City_Prop6
+    2300020: City_Prop7
+    2300022: City_Prop8
+    2300024: City_Prop9
+    2300026: City_Prop_Base
+    2300028: City_Prop_Cloud
+    3300000: City_Prop1
+    3300002: City_Prop10
+    3300004: City_Prop11
+    3300006: City_Prop12
+    3300008: City_Prop13
+    3300010: City_Prop2
+    3300012: City_Prop3
+    3300014: City_Prop4
+    3300016: City_Prop5
+    3300018: City_Prop6
+    3300020: City_Prop7
+    3300022: City_Prop8
+    3300024: City_Prop9
+    3300026: City_Prop_Base
+    3300028: City_Prop_Cloud
+    4300000: City_Prop_Base
+    4300002: City_Prop13
+    4300004: City_Prop1
+    4300006: City_Prop6
+    4300008: City_Prop2
+    4300010: City_Prop5
+    4300012: City_Prop7
+    4300014: City_Prop8
+    4300016: City_Prop10
+    4300018: City_Prop11
+    4300020: City_Prop9
+    4300022: City_Prop_Cloud
+    4300024: City_Prop12
+    4300026: City_Prop3
+    4300028: City_Prop4
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
